@@ -1,0 +1,7 @@
+ZADANIE 1
+najmniejszy ulamek: 1 225
+ZADANIE 2
+ulamkow w postaci nieskrcalnej: 410
+ZADANIE 3
+suma licznikow: 128446
+ZADANIE 4 poszukiwana wartosc: 578219135

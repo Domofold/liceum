@@ -1,0 +1,12 @@
+ZADANIE 1
+max = 777044
+min = 1002
+ZADANIE 2
+liczba elementow : 6
+pierwszy element: 639
+ZADANIE 3
+rownych: 159
+liczba1 > liczba2: 359 
+ZADANIE 4
+szostek w dziesietnym: 411
+szostek w osemkowym: 625

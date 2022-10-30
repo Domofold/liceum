@@ -1,0 +1,8 @@
+ZADANIE 1
+liczba gatunkow: 207
+najwiecej osobnikow gatunku: 20
+ZADANIE 2
+wystapien mutacji: 8
+ZADANIE 3
+najwieksza liczba genow: 11
+najdluzszy gen: 189
