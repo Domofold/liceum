@@ -1,0 +1,6 @@
+{'Tytul': 'Minecraft', 'Rok wydania': 1999, 'Gatunek': 'SURVIVAL', 'Ocena graczy': 9.0}
+{'Tytul': 'Cyberpunk', 'Rok wydania': 2020, 'Gatunek': 'RPG', 'Ocena graczy': 4.0}
+{'Tytul': 'The Witcher', 'Rok wydania': 2013, 'Gatunek': 'RPG', 'Ocena graczy': 10.0}
+{'Tytul': 'Counter Strike', 'Rok wydania': 1999, 'Gatunek': 'FPS', 'Ocena graczy': 8.0}
+{'Tytul': 'Fifa 2020', 'Rok wydania': 2019, 'Gatunek': 'sport', 'Ocena graczy': 2.0}
+{'Tytul': 'Apex Legends', 'Rok wydania': 2019, 'Gatunek': 'FPS', 'Ocena graczy': 9.0}
